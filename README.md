@@ -18,4 +18,5 @@ Nessa aula foi utilizada a API pública do site IMDB com MostPopularMovies.
 4) Com o desafio proposto pelos mentores foi refatorada a pontuação de modo a possuir um melhor layout com cores e emojis.
 
 <h1>Resultado do projeto da Aula 1</h1>
+
 ![Logo do Github](https://raw.githubusercontent.com/devcroco/imersao-java-2/main/Captura%20de%20Tela%20(229).png)
